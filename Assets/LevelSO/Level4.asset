@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f41fadc32793614a9b294af8ee27806, type: 3}
+  m_Name: Level4
+  m_EditorClassIdentifier: 
+  levelName: Level4
+  bestTime: 0
+  levelIndex: 3
+  leaderboardKey: 4ef3b86edf4f37e637c3d28d61fa35aa98b598a06850159b96ec9cd5976c1b9f
+  isSwinging: 1
+  coursePrefabName: TrainingCourse4
+  allTimes: []
+  campaignTimes:
+  - 7
+  - 9.5
+  - 12
