@@ -10,21 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 2f41fadc32793614a9b294af8ee27806, type: 3}
-  m_Name: Level1
+  m_Name: Level7
   m_EditorClassIdentifier: 
-  levelName: Hop, Slide and a Jump
-  bestTime: 0
-  levelIndex: 0
-  leaderboardKey: 736e07e360147dafc530e79be04e44b2f5f537f186778000d94460066a50c09f
-  isSwinging: 0
-  coursePrefabName: TrainingCourse1
+  levelName: Level7
+  bestTime: 5.371682
+  levelIndex: 6
+  leaderboardKey: 
+  isSwinging: 1
+  coursePrefabName: TrainingCourse7
   allTimes:
-  - 4.23479
-  - 4.2436867
-  - 4.280741
-  - 4.281841
-  - 4.298947
+  - 5.371682
+  - 5.970693
+  - 5.9794283
+  - 6.219483
   campaignTimes:
-  - 4.25
-  - 7
-  - 10
+  - 5.8
+  - 9
+  - 15

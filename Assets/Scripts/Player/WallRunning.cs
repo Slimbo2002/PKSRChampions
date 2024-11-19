@@ -87,7 +87,6 @@ public class WallRunning : MonoBehaviour
         {
             if (!movement.isWallRunning)
             {
-                Debug.Log("Wallrunning");
                 StartWallRun();
             }
 
@@ -122,7 +121,7 @@ public class WallRunning : MonoBehaviour
 
         // Add angle tolerance check
         float angleBetween = Vector3.Angle(orient.forward, adjustedWallForward);
-        if (angleBetween < 90f) // 30 degrees tolerance
+        if (angleBetween < 10f) // 30 degrees tolerance
         {
             movement.isWallRunning = true;
             movement.jumps = 0;

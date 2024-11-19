@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f41fadc32793614a9b294af8ee27806, type: 3}
   m_Name: Level2
   m_EditorClassIdentifier: 
-  levelName: Level2
+  levelName: 
   bestTime: 0
   levelIndex: 1
   leaderboardKey: e8909c64283eeed47dd6085363a3fcee0611e9827e91256b5d3d8fa65c5a1ace
